@@ -1,4 +1,4 @@
-<img src="https://grandcities.pro/img/fon1.png" width="30%"/>
+<img src="https://grandcities.pro/img/fon1.png" width="50%"/>
 <h1>About Grandmaster of Cities</h1>
 <p>The city game is a classic intellectual game that has gained popularity in many countries. It is not only a great way to spend time with friends or family, but also an opportunity to expand your geographical knowledge. In this article, we will discuss the rules of the game, its features, and the benefits for participants.</p>
 
